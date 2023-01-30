@@ -1,0 +1,25 @@
+{
+  "name": "understandtypescript",
+  "version": "1.0.0",
+  "description": "typescript",
+  "main": "js-only1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fairinna/UnderstandTypeScript.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Inna Miachikova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fairinna/UnderstandTypeScript/issues"
+  },
+  "homepage": "https://github.com/fairinna/UnderstandTypeScript#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
